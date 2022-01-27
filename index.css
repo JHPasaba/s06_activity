@@ -89,6 +89,22 @@ nav .nav, .nav-logo {
 }
 	/*width on each .card which maked the vertical align work*/
 
+#pre-footer div{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 3rem;
+	/*margin-left: 1rem;
+	margin-right: 1rem;*/
+	width: 23%;
+	min-height: 180px;
+	color: white;
+}
+
+#pre-footer{
+	padding: 0px 7%;
+	background-color: #002540;
+}
+
 footer {
 	padding: 1rem;
 	text-align: center;
